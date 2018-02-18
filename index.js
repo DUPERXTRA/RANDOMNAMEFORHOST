@@ -164,4 +164,4 @@ bot.on("message", function(message){
 });
 
 
-bot.login('NDE0NTQ5MjYzODk3NTkxODA4.DWo-mw.9B0sx_fxX6CYuZq3qYV5Xrgh4KQ');
+bot.login(process.env.BOT_TOKEN);
