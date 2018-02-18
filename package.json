@@ -1,0 +1,22 @@
+{
+  "name": "blyatbot",
+  "version": "1.0.0",
+  "description": "BlyatBot moderates your Discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "blyat",
+    "bot"
+  ],
+  "author": "Scottmg_YT and Cristian",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.0",
+    "ffmpeg-binaries": "^3.2.2-3",
+    "googleapis": "^26.0.1",
+    "opusscript": "0.0.4",
+    "ytdl-core": "^0.18.7"
+  }
+}
